@@ -1,0 +1,22 @@
+html,
+body,
+.wrapper {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: "rubik-regular", Roboto, sans-serif;
+}
+
+.navbar {
+	padding: 0 !important;
+}
+
+.sticky {
+	position: fixed;
+	background-color: black;
+	padding-top: 1em;
+	width: 100%;
+}
+
